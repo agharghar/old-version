@@ -1,0 +1,484 @@
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\Interop.ONAddInForWord.dll
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.csproj.ResolveComReference.cache
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.exe.config
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.Activation.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.ActivationAvocaBine.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.AjalatForm.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.Avocat.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.ConfigurationServer.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.DecisionForm.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.Fonction.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.FonctionAjoute.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.FonctionSupprimer.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.FormMain.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.imprimerAgenda.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerAllAdv.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerAllCauses.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerAllClientCause.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerClientCause.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.imprimer_adv_cause.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.Imprimer_cause.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.ListeTribunal.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.ListeVille.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Login.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.MassarifListe.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.PassOublier.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Piece_Joint_Order.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Piéce_Joint_Cause.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Piéce_Joint_Plainte.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.ProposNous.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Tableau_Des_RDV.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.TextJuridique.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.tribunalAjouter.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.tribunalSuprimer.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.VilleAjoute.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.VilleSupprimer.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.Wadiaa.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.المصاريف.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.جدول_الاوامر.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Creation_Des_Compte.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Form2.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.PrintAllPlaintes.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.ادارة_الخصوم.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.ادارة_الموكلين.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.ادارة_خصوم_الامر.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.ادارة_موكلي_الامر.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.الأمر.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.الجلسات.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.المشتكون.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.المشتكون_بهم.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.الموضوع.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.اليومية.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.جدول_القضايا.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.جدول_الشكايات.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.دليل_الهاتف.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.شكاية.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.csproj.GenerateResource.Cache
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Properties.Resources.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.exe.licenses
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.exe
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.XML
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.pdb
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\CircularProgressBar.dll
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\WinFormAnimation.dll
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\CircularProgressBar.xml
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\WinFormAnimation.xml
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.PrintAllOrdersForm.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.PrintOneOrderForm.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.PrintMassarifForm.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.cause_archivé.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.imprimerAllCauseArchive.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerCauseArchive.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.tableau_Utilisateur.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerAllDepotOrder.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerAllDepotPlainte.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerAllDept_Cause.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.Imprimer_Depot_Cause.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Imprimer_depot_order.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.Imprimer_Depot_Plainte.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.Splash.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.TableHistory.resources
+C:\Users\Ahmed Ouberka\avocabim solution\AvocaBineSolution\AvocaBineSolution\AvocaBin\AvocaBin\obj\Debug\AvocaBin.csprojResolveAssemblyReference.cache
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\Interop.ONAddInForWord.dll
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.csproj.ResolveComReference.cache
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.Activation.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.ActivationAvocaBine.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.AjalatForm.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.Avocat.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.cause_archivé.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.ConfigurationServer.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.DecisionForm.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.Fonction.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.FonctionAjoute.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.FonctionSupprimer.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.FormMain.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.imprimerAgenda.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerAllAdv.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.imprimerAllCauseArchive.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerAllCauses.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerAllClientCause.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerAllDepotOrder.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerAllDepotPlainte.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerAllDept_Cause.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerCauseArchive.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerClientCause.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.imprimer_adv_cause.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.Imprimer_cause.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.Imprimer_Depot_Cause.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Imprimer_depot_order.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.Imprimer_Depot_Plainte.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.ListeTribunal.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.ListeVille.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Login.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.MassarifListe.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.PassOublier.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Piece_Joint_Order.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Piéce_Joint_Cause.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Piéce_Joint_Plainte.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.PrintMassarifForm.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.PrintOneOrderForm.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.ProposNous.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.Splash.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Tableau_Des_RDV.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.tableau_Utilisateur.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.TableHistory.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.TextJuridique.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.tribunalAjouter.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.tribunalSuprimer.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.VilleAjoute.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.VilleSupprimer.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.Wadiaa.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.المصاريف.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.جدول_الاوامر.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Creation_Des_Compte.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Form2.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.PrintAllOrdersForm.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.PrintAllPlaintes.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Properties.Resources.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.ادارة_الخصوم.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.ادارة_الموكلين.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.ادارة_خصوم_الامر.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.ادارة_موكلي_الامر.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.الأمر.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.الجلسات.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.المشتكون.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.المشتكون_بهم.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.الموضوع.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.اليومية.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.جدول_القضايا.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.جدول_الشكايات.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.دليل_الهاتف.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.شكاية.resources
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.csproj.GenerateResource.Cache
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.exe
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.pdb
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.exe.config
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.XML
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\CircularProgressBar.dll
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\WinFormAnimation.dll
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\CircularProgressBar.xml
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\WinFormAnimation.xml
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.exe.licenses
+D:\ijnijnijn\Zack project\AvocaBin\AvocaBin\obj\Debug\AvocaBin.csprojResolveAssemblyReference.cache
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.csprojResolveAssemblyReference.cache
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.csproj.ResolveComReference.cache
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.Activation.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.ActivationAvocaBine.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.AjalatForm.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.Avocat.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.cause_archivé.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.ConfigurationServer.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.DecisionForm.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.Fonction.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.FonctionAjoute.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.FonctionSupprimer.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.FormMain.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.imprimerAgenda.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerAllAdv.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.imprimerAllCauseArchive.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerAllCauses.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerAllClientCause.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerAllDepotOrder.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerAllDepotPlainte.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerAllDept_Cause.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerCauseArchive.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerClientCause.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.imprimer_adv_cause.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.Imprimer_cause.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.Imprimer_Depot_Cause.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Imprimer_depot_order.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.Imprimer_Depot_Plainte.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.ListeTribunal.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.ListeVille.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Login.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.MassarifListe.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.PassOublier.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Piece_Joint_Order.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Piéce_Joint_Cause.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Piéce_Joint_Plainte.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.PrintMassarifForm.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.PrintOneOrderForm.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.ProposNous.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.Splash.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Tableau_Des_RDV.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.tableau_Utilisateur.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.TableHistory.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.TextJuridique.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.tribunalAjouter.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.tribunalSuprimer.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.VilleAjoute.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.VilleSupprimer.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.Wadiaa.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Controller.المصاريف.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.جدول_الاوامر.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Creation_Des_Compte.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Form2.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.PrintAllOrdersForm.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.PrintAllPlaintes.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.Properties.Resources.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.ادارة_الخصوم.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.ادارة_الموكلين.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.ادارة_خصوم_الامر.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.ادارة_موكلي_الامر.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.الأمر.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.الجلسات.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.المشتكون.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.المشتكون_بهم.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.الموضوع.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.اليومية.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.جدول_القضايا.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.جدول_الشكايات.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.دليل_الهاتف.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.شكاية.resources
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.csproj.GenerateResource.Cache
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.exe.licenses
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.exe.config
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.exe
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.XML
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\AvocaBin.pdb
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\CircularProgressBar.dll
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\WinFormAnimation.dll
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\CircularProgressBar.xml
+C:\Users\Mourad\Desktop\AvocaBin\AvocaBin\obj\Debug\WinFormAnimation.xml
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.csproj.ResolveComReference.cache
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.Activation.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.ActivationAvocaBine.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.AjalatForm.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.Avocat.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.cause_archivé.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.ConfigurationServer.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.DecisionForm.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.Fonction.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.FonctionAjoute.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.FonctionSupprimer.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.FormMain.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.imprimerAgenda.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerAllAdv.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.imprimerAllCauseArchive.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerAllCauses.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerAllClientCause.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerAllDepotOrder.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerAllDepotPlainte.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerAllDept_Cause.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerCauseArchive.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerClientCause.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.imprimer_adv_cause.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.Imprimer_cause.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.Imprimer_Depot_Cause.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Imprimer_depot_order.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.Imprimer_Depot_Plainte.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.ListeTribunal.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.ListeVille.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Login.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.MassarifListe.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.PassOublier.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Piece_Joint_Order.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Piéce_Joint_Cause.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Piéce_Joint_Plainte.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.PrintMassarifForm.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.PrintOneOrderForm.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.ProposNous.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.Splash.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Tableau_Des_RDV.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.tableau_Utilisateur.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.TableHistory.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.TextJuridique.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.tribunalAjouter.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.tribunalSuprimer.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.VilleAjoute.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.VilleSupprimer.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.Wadiaa.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.المصاريف.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.جدول_الاوامر.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Creation_Des_Compte.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Form2.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.PrintAllOrdersForm.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.PrintAllPlaintes.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Properties.Resources.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.ادارة_الخصوم.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.ادارة_الموكلين.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.ادارة_خصوم_الامر.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.ادارة_موكلي_الامر.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.الأمر.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.الجلسات.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.المشتكون.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.المشتكون_بهم.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.الموضوع.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.اليومية.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.جدول_القضايا.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.جدول_الشكايات.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.دليل_الهاتف.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.شكاية.resources
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.csproj.GenerateResource.Cache
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.exe.licenses
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.exe.config
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.exe
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.XML
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.pdb
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\CircularProgressBar.dll
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\WinFormAnimation.dll
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\CircularProgressBar.xml
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\WinFormAnimation.xml
+C:\Users\Ahmed Ouberka\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.csprojResolveAssemblyReference.cache
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.csprojResolveAssemblyReference.cache
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\Interop.ONAddInForWord.dll
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.csproj.ResolveComReference.cache
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.Activation.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.ActivationAvocaBine.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.AjalatForm.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.Avocat.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.cause_archivé.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.ConfigurationServer.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.DecisionForm.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.Fonction.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.FonctionAjoute.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.FonctionSupprimer.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.FormMain.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.imprimerAgenda.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerAllAdv.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.imprimerAllCauseArchive.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerAllCauses.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerAllClientCause.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerAllDepotOrder.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerAllDepotPlainte.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerAllDept_Cause.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerCauseArchive.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerClientCause.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.imprimer_adv_cause.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.Imprimer_cause.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.Imprimer_Depot_Cause.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Imprimer_depot_order.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.Imprimer_Depot_Plainte.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.ListeTribunal.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.ListeVille.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Login.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.MassarifListe.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.PassOublier.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Piece_Joint_Order.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Piéce_Joint_Cause.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Piéce_Joint_Plainte.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.PrintMassarifForm.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.PrintOneOrderForm.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.ProposNous.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.Splash.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Tableau_Des_RDV.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.tableau_Utilisateur.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.TableHistory.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.TextJuridique.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.tribunalAjouter.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.tribunalSuprimer.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.VilleAjoute.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.VilleSupprimer.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.Wadiaa.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.المصاريف.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.جدول_الاوامر.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Creation_Des_Compte.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Form2.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.PrintAllOrdersForm.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.PrintAllPlaintes.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Properties.Resources.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.ادارة_الخصوم.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.ادارة_الموكلين.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.ادارة_خصوم_الامر.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.ادارة_موكلي_الامر.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.الأمر.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.الجلسات.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.المشتكون.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.المشتكون_بهم.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.الموضوع.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.اليومية.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.جدول_القضايا.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.جدول_الشكايات.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.دليل_الهاتف.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.شكاية.resources
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.csproj.GenerateResource.Cache
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.exe
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.pdb
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.exe.config
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.XML
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\CircularProgressBar.dll
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\WinFormAnimation.dll
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\CircularProgressBar.xml
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\WinFormAnimation.xml
+C:\Users\zakaria\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.exe.licenses
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\Interop.ONAddInForWord.dll
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.csproj.ResolveComReference.cache
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.Activation.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.ActivationAvocaBine.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.AjalatForm.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.Avocat.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.cause_archivé.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.ConfigurationServer.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.DecisionForm.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.Fonction.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.FonctionAjoute.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.FonctionSupprimer.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.FormMain.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.imprimerAgenda.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerAllAdv.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.imprimerAllCauseArchive.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerAllCauses.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerAllClientCause.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerAllDepotOrder.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerAllDepotPlainte.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerAllDept_Cause.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerCauseArchive.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.ImprimerClientCause.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.imprimer_adv_cause.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.Imprimer_cause.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.Imprimer_Depot_Cause.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Imprimer_depot_order.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.Imprimer_Depot_Plainte.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.ListeTribunal.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.ListeVille.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Login.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.MassarifListe.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.PassOublier.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Piece_Joint_Order.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Piéce_Joint_Cause.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Piéce_Joint_Plainte.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.PrintMassarifForm.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.PrintOneOrderForm.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.ProposNous.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.Splash.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Tableau_Des_RDV.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.tableau_Utilisateur.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.TableHistory.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.TextJuridique.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.tribunalAjouter.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.tribunalSuprimer.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.VilleAjoute.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.VilleSupprimer.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.Wadiaa.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Controller.المصاريف.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.جدول_الاوامر.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Creation_Des_Compte.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Form2.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.PrintAllOrdersForm.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.PrintAllPlaintes.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.Properties.Resources.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.ادارة_الخصوم.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.ادارة_الموكلين.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.ادارة_خصوم_الامر.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.ادارة_موكلي_الامر.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.الأمر.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.الجلسات.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.المشتكون.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.المشتكون_بهم.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.الموضوع.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.اليومية.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.جدول_القضايا.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.جدول_الشكايات.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.دليل_الهاتف.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.شكاية.resources
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.exe.licenses
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.exe.config
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.exe
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.XML
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\AvocaBin.pdb
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\CircularProgressBar.dll
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\WinFormAnimation.dll
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\CircularProgressBar.xml
+C:\Users\HP\Desktop\AvocaBin source code\AvocaBin\obj\Debug\WinFormAnimation.xml
